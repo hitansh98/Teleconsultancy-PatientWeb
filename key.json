@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teleconsultancy-r34ct",
+  "private_key_id": "a22d27392c7cbd95f4403baf7eccf64b6e786c64",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmcx7lhmmxvLN4\nO/BBLWVa2UaFYXXan2VNv804ikHHgKYVO+0tXQx4HcrnFUKpAcL+NCh/+HABPGuJ\nSMoicWR2JeR7VyKlzFFpP741ziJPCdHEsyuQehQtCErSPkncF/IY4lIzJyaS+0MI\n99dob8v4YzYCK5s8EmYRQ+Hboqhi7LiTvgK31JOiX6nkb1gJ72Nch8JIpuJyw0yM\nF0I0If3zrvUdIFFgylBCZF+czr6dz4BHQUqv1JZSdi71Vk8FQEBj3TVKicxtiQyi\nMSN+Lq2a2531Zob6he0id6UucxPccFAYGPdepwLmI7/M+++zLtTVU4N38W9hQwvt\n9U9eWWD1AgMBAAECggEALvKnk0u/Qh+ca1xUnr2kKeTA7FwZ9skgtLZVtw3gEdpq\nffDCLBpjqvmUQmuPusXBbxvdFINJbD/TgQxj3yUmleCIOnXQUv13NP2CtABpUuvN\nG/MBZaXZTP5axERHZunmIjirwLvZOHngZYYqXs2xtWSeVixgg6gY2+POr7mITyZK\ng6t+0BCRkYlUP00w2keSHWWzbLYNwoUJo4tDWxNyG86O4Vosq0D541TAheAO7jL8\ndWrxVLSIMh4c0hueCJ99vjxArXFPeOctSnoi1UtDHxcYRSnvqQGzlszMf4vdy1Zd\nyl7UHvrBTGXcy2YsPWl7XHGy8Oq7L09WQJsGLIVo/QKBgQDoPSd7IrjsOPmsRKbh\nNx8/Wvx5LYNlTlPumYsGNLagYU7h0WjsQ/5v2I7E6R4KbNcsJVWMc6JmiVvF+O6l\nFHb+MnVESt1XXflD3v7yIcabSvBLii7IUi8dBWh8mFS5OnlPPEdH1qFjUrom+bYf\n/o1vRrBN+YoWuZtE3Mq5NVxptwKBgQC3es2dUVbZld6CH4/1NBxYutje2are7DJf\nnXltwLMg+oZfVBENtIEFO9xIFWMqZ0Jwkqka2UYojB8XiVrLzFeNevVeiQPYl1Co\nUaRDZnzBm9nFKym31K3G3oZ6XECK6+qpfRGs5xVr2PJI224lE7VJf/+MmIqayJvj\nJ1zR93g6swKBgGUo9kCh0FE9RCwwv0xM2XScamtSUvDW3KKLCU7LuV1E5bphoEWC\nHJuVhiLptGcwH84f+RKz7+KgJHSoyTLpJif1zLTRs3Zx/bj9sqm/4qYUT3VoHJav\njcwjZe8X35fLi7ni9N2q9SOxjlqZ3SY0mGEHNpbQgsEBWkv1rOxd/QIjAoGABYg2\nWt/w9m6GXvYEqSgBEsvPbiix9ja47hkZaC2/OOdU1dr7CKbAnR/I7IN4kfa7EhnZ\n721NqDtRVKxXiH2IxkNG0qre6tDlJa4QfdfBOzUvw7ohb+GBu9VJyLavW4DxelrD\nBauSAcZwx7GWCJgnhyfM1LhktXYG/TpamhoUDfECgYBJ5VCqZqtm1SawDJb5nMGu\nkxW46UuPBTZ/Jso8wLcH39ohCcr0Hns6xgHE3iKbuEp1G7I2H9mw4+SpdlBXR8v1\ncvjvN0r7gwm5amLCOgwxj23FbUpSsL/7qc9OfNWeOVd3LXrYE5g+RvgL74OMv1Bk\nNxixusIVYXlVYkpQsD6uhg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "teleconsultancy-r34ct@appspot.gserviceaccount.com",
+  "client_id": "110551387857181747339",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teleconsultancy-r34ct%40appspot.gserviceaccount.com"
+}

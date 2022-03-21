@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>post-clock-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,14.5 C3.140375,14.5 0,11.3593333 0,7.5 C0,3.640375 3.140375,0.5 7,0.5 C10.8593333,0.5 14,3.640375 14,7.5 C14,11.3593333 10.8593333,14.5 7,14.5 Z M7,1.08333333 C3.46179167,1.08333333 0.583333333,3.96179167 0.583333333,7.5 C0.583333333,11.0382083 3.46179167,13.9166667 7,13.9166667 C10.5382083,13.9166667 13.4166667,11.0382083 13.4166667,7.5 C13.4166667,3.96179167 10.5382083,1.08333333 7,1.08333333 Z M3.5,8.08333333 L3.5,7.5 L7,7.49941667 L7,2.83275 L7.58333333,2.83275 L7.58333333,8.08275 L3.5,8.08333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Doctor-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15-online-payment-confirmation" transform="translate(-461.000000, -521.000000)" fill-rule="nonzero">
+            <g id="post-clock-icon" transform="translate(461.000000, 521.000000)">
+                <g id="recents">
+                    <use fill="#47D68C" xlink:href="#path-1"></use>
+                    <use fill="#A3A3A3" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

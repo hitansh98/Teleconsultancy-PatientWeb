@@ -1,0 +1,56 @@
+{
+  "name": "doctorpatient",
+  "proxy": "https://api.razorpay.com/v1/orders",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "availity-reactstrap-validation": "^2.6.1",
+    "bootstrap": "^4.5.0",
+    "firebase": "^7.15.1",
+    "firebase-admin": "^8.12.1",
+    "firebase-functions": "^3.7.0",
+    "firebase-tools": "^8.4.2",
+    "history": "^4.10.1",
+    "moment": "^2.26.0",
+    "razorpay": "^2.0.6",
+    "react": "^16.13.1",
+    "react-big-calendar": "^0.24.6",
+    "react-bootstrap": "^1.0.1",
+    "react-calendar": "^3.1.0",
+    "react-dom": "^16.13.1",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-image-gallery": "^1.0.7",
+    "react-lottie": "^1.2.3",
+    "react-multi-carousel": "^2.5.5",
+    "react-pdf": "^4.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-super-responsive-table": "^5.1.1",
+    "react-view-component": "^1.0.1",
+    "reactstrap": "^8.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
